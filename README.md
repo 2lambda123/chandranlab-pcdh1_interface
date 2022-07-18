@@ -3,4 +3,7 @@
 
 Code to cluster fitted sigmoidal curves as described in manuscript "Two point mutations in protocadherin-1 disrupt Andes hantavirus recognition and afford protection against lethal infection" by Megan M. Slough et al.
 
--img: Images for readme file
+1. img: Images for readme file
+2. input: Experimental data 
+   - competition\_ELISAs\_EC1\_mutants
+   - neutralization\_EC1_mutants
