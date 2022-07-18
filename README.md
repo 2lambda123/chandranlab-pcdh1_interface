@@ -1,2 +1,2 @@
-# Clustering competition binding ELISAs and/or neutralization experiments
-## "Two point mutations in protocadherin-1 disrupt Andes hantavirus recognition and afford protection against lethal infection"
+## Clustering competition binding ELISAs and/or neutralization experiments
+### "Two point mutations in protocadherin-1 disrupt Andes hantavirus recognition and afford protection against lethal infection"
